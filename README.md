@@ -6,4 +6,4 @@ A Web app that allows the user to search the current weather data os a specific 
 ## Link to the application
 https://gummygom.github.io/weather-dashboard/
 
-![screenshotofpage](https://ibb.co/103rjK6)
+![screenshotofpage](https://imgur.com/a/Dq2VI8u)
