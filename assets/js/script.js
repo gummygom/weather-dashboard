@@ -163,5 +163,3 @@ function createForecastCard(date, icon, temp, humidity) {
     cardHumidity.text(`Humidity: ${humidity}%`);
     fiveDayCardEl.append(cardDate, cardIcon, cardTemp, cardHumidity);
 }
-
-
